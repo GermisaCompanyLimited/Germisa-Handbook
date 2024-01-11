@@ -12,8 +12,3 @@ Employees can also use work hours to work on learning projects, though this shou
 
 Clef understands the value of mentorship.  We will work with every employee to make sure they have a mentor in their field outside of the company who they can regularly meet with and get advice. Mentorship goals will be discussed in one-on-ones, possible mentors from our industry or networks will be chosen, and everyone on the team will help make and support the connection with the mentor. Employees are also encouraged to meet with their mentor during normal work hours. In the future, we will explore a more comprehensive resource or platform for helping employees find mentors.
 
-## Speaker Support
-
-It makes Clef look great when our employees speak at industry conferences, so we love to support Clef employees who are invited to speak to their peers about their area of expertise. For each event, Clef will pay for the flights and hotel up to $1,000 dollars, and employees are each eligible for this benefit 4 times per year (this budget is separate from the learning budget). Employees should get approval from the founder they report to about which conferences are appropriate to speak at, and to make sure that conference dates don’t interfere with important company dates.
-
-Speaker support will be limited to two event during the first year of implementation and for employees joining the company after the month of May in the calendar year.
