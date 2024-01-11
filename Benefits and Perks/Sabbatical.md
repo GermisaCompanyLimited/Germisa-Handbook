@@ -2,7 +2,7 @@
 
 After every 5 years of working at Clef, employees are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
 
-During this sabbatical, they should work on passion projects -- something outside the scope of their normal work that is interesting and exciting to them. This could be researching a topic of interest, working for the US Digital Service, helping a nonprofit, or something else altogether.
+During this sabbatical, they should work on passion projects -- something outside the scope of their normal work that is interesting and exciting to them. This could be researching a topic of interest, helping a nonprofit, or something else altogether.
 
 The sabbatical should be a time of self-improvement and exploration with a central activity or theme. At the end of the sabbatical, the employee should put together a presentation about their sabbatical and present it to the team when they get back to the office.  
 
