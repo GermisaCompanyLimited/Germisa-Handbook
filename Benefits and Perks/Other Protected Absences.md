@@ -12,4 +12,4 @@ Employees will be granted up to 3 days paid time to serve on a jury or as a witn
 
 ## Other Leaves of Absence
 
-Clef will grant leaves of absence for other activities as required by law.  Unless otherwise required by law, employees will not be paid for such leaves of absence.  
+GERMISA COMPANY LIMITED will grant leaves of absence for other activities as required by law.  Unless otherwise required by law, employees will not be paid for such leaves of absence.  
