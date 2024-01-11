@@ -6,48 +6,43 @@
     <td>January 1</td>
   </tr>
   <tr>
-    <td>Birthday of Martin Luther King, Jr. </td>
-    <td>January 19</td>
-  </tr>
-  <tr>
-    <td>President’s Day</td>
-    <td>February 16</td>
-  </tr>
-  <tr>
-    <td>Cesar Chavez Day</td>
-    <td>March 31</td>
-  </tr>
-  <tr>
-    <td>Memorial Day</td>
-    <td>Last Monday in May</td>
+    <td>Constituition Day </td>
+    <td>January 7</td>
   </tr>
   <tr>
     <td>Independence Day</td>
-    <td>July 4</td>
+    <td>March 6</td>
   </tr>
   <tr>
-    <td>Labor Day</td>
-    <td>First Monday in September</td>
+    <td>Labour Day</td>
+    <td>May 1</td>
   </tr>
   <tr>
-    <td>Indigenous People’s Day</td>
-    <td>Second Monday in October</td>
+    <td>Founder's Day</td>
+    <td>September 21</td>
   </tr>
   <tr>
-    <td>Veterans Day</td>
-    <td>November 11</td>
+   
   </tr>
   <tr>
-    <td>Thanksgiving Day and Friday</td>
-    <td>Fourth Thursday in November and following Friday</td>
+   
   </tr>
   <tr>
-    <td>Christmas Eve</td>
-    <td>December 24</td>
+   
+  </tr>
+  <tr>
+   
+  </tr>
+  <tr>
+   
   </tr>
   <tr>
     <td>Christmas Day</td>
     <td>December 25</td>
+  </tr>
+  <tr>
+    <td>Boxing Day</td>
+    <td>December 26</td>
   </tr>
 </table>
 
