@@ -1,4 +1,4 @@
-# Clef Core Values
+# GERMISA COMPANY LIMITED Core Values
 
 ## Be better today than yesterday.
 
