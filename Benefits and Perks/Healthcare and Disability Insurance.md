@@ -1,4 +1,4 @@
-# Healthcare and Disability Insurance
+# Healthcare and Insurance
 
 GERMISA COMPANY LIMITED’s priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and insurance.
 
