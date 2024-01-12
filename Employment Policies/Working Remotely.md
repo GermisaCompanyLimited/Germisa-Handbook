@@ -32,8 +32,6 @@ The guidelines in this document (and the handbook at large) give us tools to mak
 
 The majority of policies that support remote work in GERMISA COMPANY LIMITED apply to everyone at GERMISA COMPANY LIMITED, not just remote workers. The primary documents that outline these policies are:
 
-* [Effective Meetings](https://github.com/clef/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
-* [Communication and Transparency](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
 
 ### Extended Remote Work
 
@@ -70,7 +68,7 @@ A non-exhaustive list of things to ensure are in order are:
 
 #### Co-working Space Subsidies
 
-Working remotely can add a financial burden on an individual. At the same time, it is also a privilege. While GERMISA COMPANY LIMITED is on its seed extension, GERMISA COMPANY LIMITED will subsidize co-working space costs for up to $10/day. Once GERMISA COMPANY LIMITED reaches profitability or raises its next major fundraising round, we will revisit this subsidy.
+Working remotely can add a financial burden on an individual. At the same time, it is also a privilege. Once GERMISA COMPANY LIMITED reaches profitability or raises its next major fundraising round, we will revisit this subsidy.
 
 ### Manager Retrospectives
 
@@ -78,14 +76,14 @@ Working remotely can add a financial burden on an individual. At the same time, 
 
 If an employee works remotely, they should make the topic of their remote work a regular part of weekly 1:1s. 
 
-This is a time where employees can voice concerns about constraints that are limiting their ability to work effectively: this could be concerns about structures inside of GERMISA COMPANY LIMITED that limit their flexibility, concerns about how the way other teammates work, or anything else that might affect how they work. It's also a time where managers should give concrete feedback on whether an employee is upholding their responsibilities when they are working remotely.
+This is a time where employees can voice concerns about constraints that are limiting their ability to work effectively: this could be concerns about structures inside of GERMISA COMPANY LIMITED that limit their flexibility, concerns about how the way other teammates work, or anything else that might affect how they work. It's also a time where superiors should give concrete feedback on whether an employee is upholding their responsibilities when they are working remotely.
 
 #### Dedicated Retrospectives
 
-Before an employee works remotely for an extended period of time (defined below),  they should schedule a retrospective with their manager for when they get back.
+Before an employee works remotely for an extended period of time (defined below),  they should schedule a retrospective with their superior for when they get back.
 
 This meeting is essential for debriefing what did and didn't work in the time they were gone and ensuring lessons learned are rolled back into the way we work at GERMISA COMPANY LIMITED.
 
 #### Loss of the privilege
 
-Having the flexibility to work remotely is a privilege. If an employee's unable to uphold the responsibilities that go along with that privilege, their manager should work with them through their 1:1s and dedicated retrospectives to resolve the issue. If the employe cannot resolve the issue, their manager can revoke the privilege. 
+Having the flexibility to work remotely is a privilege. If an employee's unable to uphold the responsibilities that go along with that privilege, their superior should work with them through their 1:1s and dedicated retrospectives to resolve the issue. If the employe cannot resolve the issue, their manager can revoke the privilege. 
