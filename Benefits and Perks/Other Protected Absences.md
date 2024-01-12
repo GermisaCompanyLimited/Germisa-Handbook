@@ -3,7 +3,7 @@
 
 ## Bereavement Leave
 
-An employee who wishes to take time off due to the death of an immediate family member should notify the Cheif Operations Officer to whom they report. Paid bereavement leave will be granted up to three consecutive days for the death of a family member including the following:  spouse, domestic partner, cohabitant, child, stepchild, grandchild, parent, stepparent, mother-in-law, father-in-law, son-in-law, daughter-in-law, grandparent, great grandparent, or sibling.
+An employee who wishes to take time off due to the death of an immediate family member should notify the Chief Operations Officer to whom they report. Paid bereavement leave will be granted up to three consecutive days for the death of a family member including the following:  spouse, domestic partner, cohabitant, child, stepchild, grandchild, parent, stepparent, mother-in-law, father-in-law, son-in-law, daughter-in-law, grandparent, great grandparent, or sibling.
 
 
 ## Jury Duty or Witness Summons
