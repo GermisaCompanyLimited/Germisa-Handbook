@@ -4,7 +4,7 @@
 
 As an employer, it is GERMISA COMPANY LIMITED’s goal to monitor or track our employees in as few ways as possible. We want GERMISA COMPANY LIMITED employees to feel a sense of ownership towards their personal workspaces and be comfortable at the office. However, in order to ensure the safety and wellbeing of GERMISA COMPANY LIMITED employees, company property (e.g. desks, laptops, and other devices) is subject to search. For instance, this might be used if management learns that an employee has brought a gun to work or has stolen company property.
 
-This means that while the company will always try to respect employee privacy, employees do not have a right to privacy in their workspaces in any property that belongs to GERMISA COMPANY LIMITED. GERMISA COMPANY LIMITED reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover employee safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to one of the founders.
+This means that while the company will always try to respect employee privacy, employees do not have a right to privacy in their workspaces in any property that belongs to GERMISA COMPANY LIMITED. GERMISA COMPANY LIMITED reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover employee safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to one of the executives.
 
 ## Email and Internet Privacy
 
