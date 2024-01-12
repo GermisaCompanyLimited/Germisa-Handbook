@@ -1,6 +1,4 @@
-#Salary and Equity Compensation
-
-The following policy will apply to compensation offers for the first 10 employees at GERMISA COMPANY LIMITED. After we have hired 10 people, we will likely revise the salary rubric and equity amount.
+#Salary Compensation
 
 ##Salary
 
