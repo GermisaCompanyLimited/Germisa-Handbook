@@ -30,7 +30,7 @@ We expect you to exercise discretion in using electronic communications equipmen
 
 To avoid email viruses, phishing for account information, and other threats, employees should not open email attachments from people and businesses they don’t recognize, particularly if the email appears to have been forwarded multiple times or has a nonexistent or peculiar subject heading. Even if you know the sender, do not open an email attachment that has a strange name or is not referenced in the body of the email; it may have been transmitted automatically, without the sender’s knowledge.
 
-If you believe your computer has been infected by a virus, worm, or other security threat to GERMISA COMPANY LIMITED’s system, you must inform the founders immediately.
+If you believe your computer has been infected by a virus, worm, or other security threat to GERMISA COMPANY LIMITED’s system, you must inform the executives immediately.
 
 Employees may not share their email passwords with anyone, including coworkers or family members. Revealing passwords to the Company’s email system could allow an outsider to attack the GERMISA COMPANY LIMITED network
 
