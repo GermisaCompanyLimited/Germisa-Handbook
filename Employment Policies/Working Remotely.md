@@ -86,4 +86,4 @@ This meeting is essential for debriefing what did and didn't work in the time th
 
 #### Loss of the privilege
 
-Having the flexibility to work remotely is a privilege. If an employee's unable to uphold the responsibilities that go along with that privilege, their superior should work with them through their 1:1s and dedicated retrospectives to resolve the issue. If the employe cannot resolve the issue, their manager can revoke the privilege. 
+Having the flexibility to work remotely is a privilege. If an employee's unable to uphold the responsibilities that go along with that privilege, their superior should work with them through their 1:1s and dedicated retrospectives to resolve the issue. If the employee cannot resolve the issue, their manager can revoke the privilege. 
