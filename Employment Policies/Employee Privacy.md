@@ -8,7 +8,7 @@ This means that while the company will always try to respect employee privacy, e
 
 ## Email and Internet Privacy
 
-GERMISA COMPANY LIMITED email and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
+GERMISA COMPANY LIMITED email and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy either. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
 
 ## Email Is Not Private
 
