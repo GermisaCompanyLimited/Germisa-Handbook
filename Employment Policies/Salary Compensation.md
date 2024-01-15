@@ -4,7 +4,7 @@
 
 Fair compensation is critical to making GERMISA COMPANY LIMITED a desirable place to work and helping our employees lead happy, healthy lives inside and outside of the office. When used as a motivational tool, though, it can incentivize the wrong kind of optimizations. Our goal with salary is that it checks the box of "enough" for folks who are excited about working at GERMISA COMPANY LIMITED (because of the people, product, and opportunity for growth) and then fades into the background.
 
-To avoid that bias, and to better align motivations, we have a standard rubric that determines all employee salaries. Everyone in the company falls into one of four options based on their job description and years of past experience as follows:
+To avoid bias and to better align motivations, we have a standard rubric that determines all employee salaries. Everyone in the company falls into one of four options based on their job description and years of past experience as follows:
 
 <table>
   <tr>
