@@ -37,12 +37,12 @@ But this letter doesn’t mean anything unless you sign it! And before this take
 It has been great getting to know you through the interview process. The whole GERMISA COMPANY LIMITED team is convinced that you’re the right person for this job, and we can’t wait to work with you!
 ```
 
-Clef, Inc.
+GERMISA COMPANY LIMITED
 
 
 _____________________
 
-B Byrne
+Germaine Mensah
 ```
 
 ## Acceptance
