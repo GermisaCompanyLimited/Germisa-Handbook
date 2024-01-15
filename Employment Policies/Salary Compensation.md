@@ -9,18 +9,18 @@ To avoid bias and to better align motivations, we have a standard rubric that de
 <table>
   <tr>
     <td>Years Experience</td>
-    <td>Technical</td>
-    <td>Non-Technical</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>More than 5 Years Experience</td>
-    <td>$120k</td>
-    <td>$100k</td>
+    <td>Competence</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>Less than 5 Years Experience</td>
-    <td>$100k</td>
-    <td>$70k</td>
+    <td>Qualification</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
