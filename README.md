@@ -58,28 +58,14 @@ CEO of GERMISA COMPANY LIMITED
 * [Sharing Files](https://github.com/clef/handbook/blob/master/Operations%20Documents/Sharing%20Files.md)
 
 ## Benefits and Perks
-* [Health Care and Disability Insurance](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
-* [Vacation and Sick Leave](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
-* [Holiday List](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
-* [Referral Bonuses](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)
-* [Continuing Education](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
-* [Sabbatical](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
-* [New Parent Leave](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
-* [Other Protected Absences](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
+* [Health Care Insurance](https://github.com/germisa/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
+* [Vacation and Sick Leave](https://github.com/germisa/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
+* [Holiday List](https://github.com/germisa/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
+* [Referral Bonuses](https://github.com/germisa/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)
+* [Continuing Education](https://github.com/germisa/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
+* [Sabbatical](https://github.com/germisa/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
+* [New Parent Leave](https://github.com/germisa/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
+* [Other Protected Absences](https://github.com/germisa/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
 
 
 
-# Acknowledgements
-
-We hope that many more people will suggest ways for us to improve these policies, and the first version would not have been possible without the thoughtful input from these great folks.
-
-* [Angel Lewis](http://www.allemployerlaw.com/)
-* [Ashe Dryden](http://www.ashedryden.com/)
-* [B](https://twitter.com/brennenbyrne)
-* [Mark Hudnall](https://twitter.com/landakram)
-* [Jesse Pollak](https://twitter.com/jessepollak)
-* [Darrell Jones](https://twitter.com/darrelljonesiii)
-* [Grace Wong](https://twitter.com/gwongz)
-* [Julie Horvath](https://twitter.com/nrrrdcore)
-* [Ikka Riley](https://twitter.com/isicalynn)
-* [Erica Baker](https://twitter.com/ericajoy)
