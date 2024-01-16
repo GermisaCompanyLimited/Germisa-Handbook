@@ -37,7 +37,6 @@ CEO of GERMISA COMPANY LIMITED
 * [Acknowledgement of Receipt](https://github.com/germisa/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
 * [GERMISA COMPANY LIMITED Offer Letter](https://github.com/germisa/handbook/blob/master/Hiring%20Documents/Clef%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/germisa/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
-* [Guide to Your Equity](https://github.com/germisa/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
 * [Handbook Introduction](https://github.com/germisa/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Onboarding Documents
