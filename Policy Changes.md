@@ -23,7 +23,7 @@ Proposals should be written in Google Docs and linked to on the Trello board. Th
 
 ### Twitter
 
-A lot of folks have commented on the handbook outside of Github, especially on Twitter. The best thing for us to do is acknowledge their input and make sure it gets recorded in one of our other channels (especially Github) so that we don’t lose it. As individuals, anyone should feel free to talk about their opinions about feedback, but as Clef we should thank people for their input without being defensive.
+A lot of folks have commented on the handbook outside of Github, especially on Twitter. The best thing for us to do is acknowledge their input and make sure it gets recorded in one of our other channels (especially Github) so that we don’t lose it. As individuals, anyone should feel free to talk about their opinions about feedback, but as GERMISA COMPANY LIMITED we should thank people for their input without being defensive.
 
 ### Slack #handbook
 
